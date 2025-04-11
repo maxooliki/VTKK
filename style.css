@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#events-container {
+    margin-bottom: 20px;
+}
+
+.event {
+    margin-bottom: 10px;
+}
+
+.event span {
+    font-weight: bold;
+}
